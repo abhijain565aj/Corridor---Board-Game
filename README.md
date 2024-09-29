@@ -1,5 +1,6 @@
 ## Corridor - Board Game (2 Players)
-The current working file is corridor.cpp
+The current working file is corridor.cpp, some other verisons with more features which I was trying are in other files.
+
 To compile it and use the game, one needs the simplecpp library - provided to us as part of the CS101 course at IIT Bombay. The library includes support for elementary graphics
 
 
